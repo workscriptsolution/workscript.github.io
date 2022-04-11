@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9352d9e4.css",
+    "main.js": "/static/js/main.c9d90ce2.js",
+    "static/media/layout-2.jpg": "/static/media/layout-2.73b8fced2d91c2eaecc9.jpg",
+    "static/media/layout-3.jpg": "/static/media/layout-3.44c42f12795a5372e77a.jpg",
+    "static/media/layout-1.jpg": "/static/media/layout-1.0434dc50e1fb180e28f4.jpg",
+    "static/media/setup-analytics-amico.svg": "/static/media/setup-analytics-amico.cf26efb0c639d5927ad5cdb55645b479.svg",
+    "static/media/avatar-6.jpg": "/static/media/avatar-6.dc44eabff29dbd9780cb.jpg",
+    "static/media/avatar-3.jpg": "/static/media/avatar-3.2cfd5ba6f0dee8d1d076.jpg",
+    "static/media/logo-dark.png": "/static/media/logo-dark.2e223add1ac7fd0c30a3.png",
+    "static/media/logo-light.png": "/static/media/logo-light.d439429043f095522249.png",
+    "static/media/avatar-1.jpg": "/static/media/avatar-1.3921191a8acf79d3e907.jpg",
+    "static/media/avatar-4.jpg": "/static/media/avatar-4.b23e41d9c09997efbc21.jpg",
+    "static/media/avatar-7.jpg": "/static/media/avatar-7.5ba5195e48f4c2c3c3fa.jpg",
+    "static/media/avatar-8.jpg": "/static/media/avatar-8.ad5418a90c29c2b98640.jpg",
+    "static/media/avatar-5.jpg": "/static/media/avatar-5.a5c59cee7b3dfda1156d.jpg",
+    "static/media/avatar-2.jpg": "/static/media/avatar-2.feb0f89de58f0ef9b424.jpg",
+    "index.html": "/index.html",
+    "main.9352d9e4.css.map": "/static/css/main.9352d9e4.css.map",
+    "main.c9d90ce2.js.map": "/static/js/main.c9d90ce2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9352d9e4.css",
+    "static/js/main.c9d90ce2.js"
+  ]
+}
